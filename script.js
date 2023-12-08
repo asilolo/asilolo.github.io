@@ -2,7 +2,7 @@ const wrapper = document.querySelector(".wrapper");
 
 const question = document.querySelector(".question");const gif = document.querySelector(".gif");
 
-const veryBtn = document.querySelector(".very-btn");const noBtn = document.querySelector(".maybe-btn");
+const veryBtn = document.querySelector(".yes-btn");const noBtn = document.querySelector(".no-btn");
 
 veryBtn.addEventListener("click", () => {
 
